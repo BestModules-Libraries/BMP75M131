@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Relay Model
+#######################################
+
+#######################################
+# Classes and Objects (KEYWORD1)
+#######################################
+
+BMP75M131	KEYWORD1	 	//KEYWORD1（深橙色）—— 類
+CHECK_OK	KEYWORD1
+CHECK_ERROR	KEYWORD1
+TIMEOUT_ERROR	KEYWORD1
+MODULE_TPYE	KEYWORD1
+BMP75M131_ADDR	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2	//KEYWORD2（淺橙色）—— 函數	
+getNumber	KEYWORD2	
+getRelayStatus	KEYWORD2
+getAllRelayStatus	KEYWORD2
+setRelaySwitch	KEYWORD2	
+setAllRelay	KEYWORD2	
+	
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+##	LITERAL1		// LITERAL1 （ 藍色 ）—— 宏常量
+
+
